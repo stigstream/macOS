@@ -1,1 +1,3 @@
-{"identifiers": {"discord:341751538294980620"}}
+["bans"] = {
+        identifier = "discord:341751538294980620",
+},
