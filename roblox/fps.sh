@@ -8,11 +8,6 @@
 #   ░ ░   ░ ░ ░ ▒  ░ ░ ░ ▒  ░  ░  ░     ░      ░░         ░░   ░ ░ ░ ░ ▒   ░ ░  ░  ░░░ ░ ░ ░          ░       ▒ ░░ ░ ░ ▒     ░   ░ ░ ░  ░  ░  
 #     ░  ░    ░ ░      ░ ░        ░     ░  ░               ░         ░ ░     ░       ░     ░ ░                ░      ░ ░           ░       ░  
 #                                                                          ░               ░                                                  
-# Copyright 2024 @ Loose Productions
-# Written by: @loosestigma
-# Date Started: 04/07/2024
-# Build: macOS
-
 roblox_path="/Applications/Roblox.app"
 settings_path="$roblox_path/Contents/MacOS/ClientSettings"
 
